@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+
+.flex{
+    box-shadow: 0 0 10px rgb(221, 44, 44);
+    background-color: blue;
+    height: 500px;
+    padding-top: 150px;
+}
+
+
+.flex h2{
+    text-align: center;
+
+}
+.flex input{
+    align-items: center;
+    display: block;
+    margin-left: 530px;
+    margin-top: 30px;
+    padding: 8px;
+    width: 300px;
+    border: none;
+}
+.form{
+    padding-top: 10px;
+}
+.flex button{
+    margin-left: 630px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: none;
+    padding: 5px;
+    width: 100px;
+}

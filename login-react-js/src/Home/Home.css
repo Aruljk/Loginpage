@@ -1,0 +1,32 @@
+.containers{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   background-color: brown;
+   height: 150px;
+
+}
+.start-head{
+    display: flex;
+
+}
+.start-head h2 button{
+    background-color: azure; 
+    border: none;
+    color: blue;
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.start-head h1 button{
+    background-color: rgb(226, 235, 235); 
+    border: none;
+    color: blue;
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 900px;
+    border-radius: 5px;
+    margin-top: 47px;
+}
